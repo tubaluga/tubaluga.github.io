@@ -11,6 +11,7 @@ The app does use third party services that declare their own Terms and Condition
 Link to Terms and Conditions of third party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Unity](https://unity3d.com/legal/terms-of-service)
